@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About me 
 
- Hey! I'm MadeInShineA, a Super Smash Bros. Melee player from Switzerland.
+ Hey! I'm **MadeInShineA**, a Super Smash Bros. Melee player from Switzerland.
 
 I have been programming since 2021.
 
