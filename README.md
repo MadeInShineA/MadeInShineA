@@ -22,4 +22,4 @@ I have been programming since 2021.
 
 I love computer science and learning new things, whatever the field. I'm always looking for new projects to work on and improve my skills!
 
-
+![](https://komarev.com/ghpvc/?username=MadeinShineA&color=00FFFF)
