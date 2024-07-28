@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  Hey! I'm **MadeInShineA**, a Super Smash Bros. Melee player from Switzerland.
 
-I have been programming since 2021.
+I have been programming since 2022.
 
 I love computer science and learning new things, whatever the field. I'm always looking for new projects to work on and improve my skills!
 
