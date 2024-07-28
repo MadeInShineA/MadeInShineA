@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MadeInShineA/MadeInShineA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadeInShineA&rank=-C&title=-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## About me 
+
+ Hey! I'm MadeInShineA, a Super Smash Bros. Melee player from Switzerland.
+
+I have been programming since 2021.
+
+I love computer science and learning new things, whatever the field. I'm always looking for new projects to work on and improve my skills!
+
+
