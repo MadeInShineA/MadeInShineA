@@ -22,4 +22,8 @@ I have been programming since 2022.
 
 I love computer science and learning new things, whatever the field. I'm always looking for new projects to work on and improve my skills!
 
+Recently I have been working on a website called [Smash Map](https://www.smash-map.com) see the [GitHub repository](https://github.com/MadeInShineA/smash-map).
+
+
+
 ![](https://komarev.com/ghpvc/?username=MadeinShineA&color=00FFFF)
