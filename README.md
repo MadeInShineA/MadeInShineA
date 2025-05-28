@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadeInShineA&rank=-C&title=-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=madeinshinea&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="madeinshinea's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeinshinea&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="madeinshinea's GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=madeinshinea&theme=tokyonight&hide_border=true" alt="madeinshinea's GitHub Stats" />
 
 ## About me 
 
