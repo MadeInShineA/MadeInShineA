@@ -52,16 +52,6 @@ A selection of my notable repositories:
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madeinshinea&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeinshinea&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=madeinshinea&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
 ## 🛠️ Skills
 
 <p align="center">
@@ -90,6 +80,18 @@ A selection of my notable repositories:
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madeinshinea&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeinshinea&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=madeinshinea&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+
 
 ---
 
