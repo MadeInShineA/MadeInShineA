@@ -22,37 +22,30 @@ A selection of my notable repositories:
 - **[Smash Map](https://github.com/MadeInShineA/smash-map)**  
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=PrimeVue&logoColor=white" alt="PrimeVue" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />  
   Interactive map for Smash Bros. Melee communities and events.  
-  🔗 https://github.com/MadeInShineA/smash-map
 
-- **[Melee Ressources](https://github.com/MadeInShineA/melee-ressources)**  
+- **[Melee Ressources](https://github.com/davidvkimball/melee-resources)**  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
   Curated repository of Super Smash Bros. Melee community resources and guides.  
-  🔗 https://github.com/davidvkimball/melee-resources
 
 - **[Forest Fire Simulation](https://github.com/MadeInShineA/forest-fire-simulation)**  
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" alt="Scala" />  
   Scala simulation modeling forest fire spread.  
-  🔗 https://github.com/MadeInShineA/forest-fire-simulation
 
 - **[Rust Boy](https://github.com/MadeInShineA/rust-boy)**  
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust" />  
   Game Boy emulator written in Rust.  
-  🔗 https://github.com/MadeInShineA/rust-boy
 
 - **[Manim Animations](https://github.com/MadeInShineA/manim-animations)**  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />  
   Mathematical and algorithmic animations using Manim.  
-  🔗 https://github.com/MadeInShineA/manim-animations
 
 - **[Spelling Checker](https://github.com/MadeInShineA/spelling-checker)**  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />  
   Python script for checking spelling in documents.  
-  🔗 https://github.com/MadeInShineA/spelling-checker
 
 - **[SICP Scala Exercises](https://github.com/MadeInShineA/SICP-scala-exercises)**  
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" alt="Scala" />  
   Solutions to SICP book exercises in Scala.  
-  🔗 https://github.com/MadeInShineA/SICP-scala-exercises
 
 *(Explore more on [my GitHub](https://github.com/MadeInShineA?tab=repositories))*
 
