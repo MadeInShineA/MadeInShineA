@@ -28,8 +28,9 @@ A selection of my notable repositories:
   Curated repository of Super Smash Bros. Melee community resources and guides.  
 
 - **[Forest Fire Simulation](https://github.com/MadeInShineA/forest-fire-simulation)**  
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" alt="Scala" />  
-  Scala simulation modeling forest fire spread.  
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" alt="Scala" />   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust" />  
+
+  Scala backend and Rust frontend simulation modeling forest fire spread.  
 
 - **[Rust Boy](https://github.com/MadeInShineA/rust-boy)**  
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust" />  
