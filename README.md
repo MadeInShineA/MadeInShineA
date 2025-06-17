@@ -28,7 +28,7 @@ A selection of my notable repositories:
   Curated repository of Super Smash Bros. Melee community resources and guides.
 
 - **[Forest Fire Simulation](https://github.com/MadeInShineA/forest-fire-simulation)**  
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" alt="Scala" />   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust" />  
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" alt="Scala" />   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust" />  <img src="https://img.shields.io/badge/Bevy-232326.svg?style=for-the-badge&logo=Bevy&logoColor=white" />
 
   Scala backend and Rust frontend simulation modeling forest fire spread.
 
@@ -54,6 +54,12 @@ A selection of my notable repositories:
 
 ## 🛠️ Skills
 
+<p align="center">
+  <strong>Game engines:</strong><br />
+  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white"/>
+
+</p>
 <p align="center">
   <!-- Frameworks & Libraries -->
   <strong>Frameworks & Libraries:</strong><br />
