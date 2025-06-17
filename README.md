@@ -57,7 +57,7 @@ A selection of my notable repositories:
 <p align="center">
   <strong>Game engines:</strong><br />
   <img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bevy-232326.svg?style=for-the-badge&logo=Bevy&logoColor=white" />
 
 </p>
 <p align="center">
