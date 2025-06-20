@@ -93,6 +93,8 @@ A selection of my notable repositories:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madeinshinea&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeinshinea&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
